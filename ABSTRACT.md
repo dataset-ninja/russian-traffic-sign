@@ -18,4 +18,4 @@ The problem of recognizing road signs is unsolved for a large number of classes 
 
 |                                                    Real image                                                    |                                           Image with additional signs                                            |
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| ![](https://github.com/dataset-ninja/russian-traffic-sign/assets/120389559/3d3a1ea0-5251-4ba9-ac7e-b074360de973) | ![](https://github.com/dataset-ninja/russian-traffic-sign/assets/120389559/a4b826bc-0286-4389-b616-7181830076e3) |
+| ![](https://github.com/dataset-ninja/russian-traffic-sign/assets/120389559/1b40435c-9008-4f6a-86df-33efc33bbee6) | ![](https://github.com/dataset-ninja/russian-traffic-sign/assets/120389559/2e9e2bce-a42f-4efa-98bf-907ee952cdfb) |
