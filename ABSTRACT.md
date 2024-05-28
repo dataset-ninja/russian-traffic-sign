@@ -1,4 +1,4 @@
-This **RTSD: Russian traffic sign images dataset** was created for training and testing the algorithms of traffic sign recognition. Frames are obtained from widescreen digital video recorder which captures 5 frames per second. Frame resolution is from 1280×720 to 1920×1080. Frames are captured in different seasons (spring, autumn, winter), time of day (morning, afternoon, evening) and in different weather conditions (rain, snow, bright sun).
+This **RTSD: Russian Traffic Sign Images Dataset** was created for training and testing the algorithms of traffic sign recognition. Frames are obtained from widescreen digital video recorder which captures 5 frames per second. Frame resolution is from 1280×720 to 1920×1080. Frames are captured in different seasons (spring, autumn, winter), time of day (morning, afternoon, evening) and in different weather conditions (rain, snow, bright sun).
 
 ## Motivation
 
