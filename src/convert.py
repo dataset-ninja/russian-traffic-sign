@@ -54,7 +54,7 @@ def convert_and_upload_supervisely_project(
     sign_type = sly.TagMeta(
         "type",
         sly.TagValueType.ONEOF_STRING,
-        possible_values=["blue border", "blue rect", "danger", "main road", "mandatory", "prohibitory"],
+        possible_values=["blue border", "blue rect", "danger", "main road", "mandatory", "prohibitory"], applicable_to=sly.TagApplicableTo.OBJECTS_ONLY
     )
 
     project = api.project.create(workspace_id, project_name, change_name_if_conflict=True)
