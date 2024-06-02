@@ -19,3 +19,5 @@ The problem of recognizing road signs is unsolved for a large number of classes 
 |                                                    Real image                                                    |                                           Image with additional signs                                            |
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 | ![](https://github.com/dataset-ninja/russian-traffic-sign/assets/120389559/1b40435c-9008-4f6a-86df-33efc33bbee6) | ![](https://github.com/dataset-ninja/russian-traffic-sign/assets/120389559/2e9e2bce-a42f-4efa-98bf-907ee952cdfb) |
+
+**Note:** Сlasses of the specified Russian road signs comply with [GOST](http://www.nppskmost.ru/files/GOST_P_52290_2004_1.pdf) requirements.
