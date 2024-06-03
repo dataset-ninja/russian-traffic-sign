@@ -63,7 +63,7 @@ ORGANIZATION_NAME: Optional[Union[str, List[str]]] = ["Lomonosov Moscow State Un
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = ["https://msu.ru/en/", "https://www.hse.ru/en/"]
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
-SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {"sign types": ["blue border", "blue rect", "danger", "main road", "mandatory", "prohibitory"]}
+SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {"sign types": "type"}
 TAGS: Optional[
     List[
         Literal[
